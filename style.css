@@ -27,12 +27,12 @@ p {
 
 #sketch-final {
    position: absolute;
-    left: 5%;
+    left: 20px;
 }
 
 #sketch1 { 
    position: relative;
-    left: 5%;
+    left: 20px;
     top: 750px;
 }
 #sketch2 {
