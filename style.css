@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee');
+
 #nametext {
     color: #2f1962;
     text-align: center;
     font-size: 8em;
-    font-family: 'Rock Salt', cursive;
+    font-family: 'Bungee', cursive;
     line-height: 70%;
 }
 #csc {
