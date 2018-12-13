@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Bungee');
 
+h1 {
+    font-family: 'Bungee', cursive;
+}
+
+p {
+    font-family: sans-serif;
+}
+
 #nametext {
     color: #2f1962;
     text-align: center;
