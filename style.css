@@ -39,6 +39,7 @@
 #bio-text {
     color: beige;
    position: relative;
-    left: 160px;
+    left: 320px;
+    width: 310px;
     top: -360px;
 }
