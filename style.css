@@ -23,9 +23,18 @@ p {
   font-size 2em;
   line-height: 200%;
 }
-#sketch1 {
+
+
+#sketch-final {
    position: absolute;
     left: 10%;
+}
+
+
+#sketch1 { 
+   position: relative;
+    left: 20%;
+    top: 750px;
 }
 #sketch2 {
    position: relative;
